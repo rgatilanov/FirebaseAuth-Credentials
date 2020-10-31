@@ -1,0 +1,14 @@
+G:\EjerciciosMTWDM2020\XamarinFirebaseAuth-master\FirebaseAuth\FirebaseAuth\bin\Debug\netstandard2.0\FirebaseAuth.deps.json
+G:\EjerciciosMTWDM2020\XamarinFirebaseAuth-master\FirebaseAuth\FirebaseAuth\bin\Debug\netstandard2.0\FirebaseAuth.dll
+G:\EjerciciosMTWDM2020\XamarinFirebaseAuth-master\FirebaseAuth\FirebaseAuth\bin\Debug\netstandard2.0\ref\FirebaseAuth.dll
+G:\EjerciciosMTWDM2020\XamarinFirebaseAuth-master\FirebaseAuth\FirebaseAuth\bin\Debug\netstandard2.0\FirebaseAuth.pdb
+G:\EjerciciosMTWDM2020\XamarinFirebaseAuth-master\FirebaseAuth\FirebaseAuth\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\EjerciciosMTWDM2020\XamarinFirebaseAuth-master\FirebaseAuth\FirebaseAuth\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+G:\EjerciciosMTWDM2020\XamarinFirebaseAuth-master\FirebaseAuth\FirebaseAuth\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+G:\EjerciciosMTWDM2020\XamarinFirebaseAuth-master\FirebaseAuth\FirebaseAuth\obj\Debug\netstandard2.0\FirebaseAuth.AssemblyInfoInputs.cache
+G:\EjerciciosMTWDM2020\XamarinFirebaseAuth-master\FirebaseAuth\FirebaseAuth\obj\Debug\netstandard2.0\FirebaseAuth.AssemblyInfo.cs
+G:\EjerciciosMTWDM2020\XamarinFirebaseAuth-master\FirebaseAuth\FirebaseAuth\obj\Debug\netstandard2.0\FirebaseAuth.csproj.CoreCompileInputs.cache
+G:\EjerciciosMTWDM2020\XamarinFirebaseAuth-master\FirebaseAuth\FirebaseAuth\obj\Debug\netstandard2.0\XamlC.stamp
+G:\EjerciciosMTWDM2020\XamarinFirebaseAuth-master\FirebaseAuth\FirebaseAuth\obj\Debug\netstandard2.0\FirebaseAuth.dll
+G:\EjerciciosMTWDM2020\XamarinFirebaseAuth-master\FirebaseAuth\FirebaseAuth\obj\Debug\netstandard2.0\ref\FirebaseAuth.dll
+G:\EjerciciosMTWDM2020\XamarinFirebaseAuth-master\FirebaseAuth\FirebaseAuth\obj\Debug\netstandard2.0\FirebaseAuth.pdb

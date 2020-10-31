@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WV8lDn2Tdw5oSifdG4Lv4KUy5+sHQKMj08Xz34vksZIZCEoeepAkauHWipAghYmRZ1Io9u0eg5gibBZzKsg1vg==",
+  "success": true,
+  "projectFilePath": "G:\\EjerciciosMTWDM2020\\XamarinFirebaseAuth-master\\FirebaseAuth\\FirebaseAuth.iOS\\FirebaseAuth.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\xamarin.build.download\\0.4.11\\xamarin.build.download.0.4.11.nupkg.sha512",
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\xamarin.firebase.ios.auth\\6.2.1.2\\xamarin.firebase.ios.auth.6.2.1.2.nupkg.sha512",
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\xamarin.firebase.ios.core\\6.1.0.1\\xamarin.firebase.ios.core.6.1.0.1.nupkg.sha512",
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\xamarin.forms\\4.3.0.908675\\xamarin.forms.4.3.0.908675.nupkg.sha512"
+  ],
+  "logs": []
+}
